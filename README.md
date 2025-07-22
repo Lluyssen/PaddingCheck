@@ -1,9 +1,13 @@
 # Padding Analyzer Generator
 
-  Le projet a pour but d'améliorer la taille de structure simple en c++
-  Affichage du padding et de l'alignement mémoire pour des structures simple dans le but d'améliorer le code
-  Le projet peut étre utiliser simplement comme montré dans le main.cpp
-  Ou par le script Python expliqué si dessous
+  Le projet a pour but d'améliorer la taille de structure simple en c++  
+  
+  Affichage du padding et de l'alignement mémoire pour des structures simple dans le but d'améliorer le code  
+  
+  Le projet peut étre utiliser simplement comme montré dans le main.cpp  
+  
+  Ou par le script Python expliqué si dessous  
+  
 
 Ce projet contient :
 - Un script Python (`script.py`) qui scanne vos fichiers `.hpp` / `.cpp` pour détecter les `struct`
