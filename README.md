@@ -1,4 +1,4 @@
-# Padding Analyzer Generator
+# Padding Analyzer C++
 
   Le projet a pour but d'améliorer la taille de structure simple en c++  
   Affichage du padding et de l'alignement mémoire pour des structures simple dans le but d'améliorer le code  
